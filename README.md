@@ -56,7 +56,7 @@
 把下面这句话连同本仓库链接一起发给 AI（QClaw / WorkBuddy / AutoClaw / Claude Code 都支持）：
 
 ```
-帮我安装这个 skill：https://github.com/Hazehacker/ai-dev-interview-simulator
+帮我安装这个 skill：https://github.com/Hazenix/ai-dev-interview-simulator
 ```
 
 AI 会自动拉取仓库、放到正确的 skills 目录、确认安装成功。然后你就可以直接说"开始模拟面试"触发。
